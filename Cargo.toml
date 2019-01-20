@@ -5,7 +5,7 @@ authors = ["Muhammad Anjum Kaiser <anjumbutt@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-reqwest = "0.9.5"
+reqwest = "0.9.8"
 select = "0.4.2"
-scraper = "0.9.0"
+scraper = "0.9.1"
 prettytable-rs = "0.8.0"
